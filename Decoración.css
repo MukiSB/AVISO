@@ -1,0 +1,47 @@
+h1{
+    color:red;
+    font-size:70px;
+    border: solid red 10px;
+    font-family:helvetica;
+}
+
+p{
+    font-size: 30px;
+    font-family:helvetica;
+}
+
+li{
+    color:blue;
+    font-size: 30px;
+    font-family:helvetica;
+}
+
+h2{
+    font-size: 30px;
+    font-family:helvetica;
+    color:hotpink;
+}
+
+h3{
+    font-size:17px;
+    font-family:helvetica;
+}
+
+button{
+    font-size:30px;
+}
+
+.fcc-btn {
+    background-color:lightskyblue;
+    color:black;
+    padding: 15px 25px;
+    text-decoration:none;
+    font-family:helvetica;
+    font-size:30px;
+  }
+
+.fcc-btn:hover{
+    background-color:darkgrey;
+}
+
+
